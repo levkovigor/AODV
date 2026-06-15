@@ -236,3 +236,29 @@ graph TD
     LEDOff --> EndLoop
 ```
 
+---
+
+## Documentation & Hardware Modules
+
+For complete technical documentation, pinouts, and detailed descriptions of the ready-made FGRFMesh hardware modules, please visit the official project website:
+
+👉 [fgrfmesh.factorial-group.com.ua](https://fgrfmesh.factorial-group.com.ua/)
+
+---
+
+## ADF7023 Library
+
+👉 [https://github.com/levkovigor/ADF7023](https://github.com/levkovigor/ADF7023)
+
+---
+
+## License
+
+This library is licensed under the MIT License. Feel free to use and modify it for your projects!
+
+---
+
+## 🤝 Acknowledgements
+
+A huge thanks to [Denis Druzhko](https://github.com/denisdruzhko) who has contributed to this project! 
+
